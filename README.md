@@ -2,7 +2,7 @@
 
 Convert .itp files to texture files.
 
-Currently Support Ys VIII (PS4 & PC) assets.
+`.itp` has many different versions, `itpcnv-dana` supports __Ys VIII (PS4 & PC)__ assets.
 
 ## Usage
 
