@@ -22,7 +22,7 @@ Use [YsVIII-tools](https://github.com/yosh778/YsVIII-tools) or my [fork](https:/
 
 ### How to view `.dds` texture?
 
-* You can use [Noesis](http://www.richwhitehouse.com/noesis/nms/index.php) to [batch convert](http://www.richwhitehouse.com/noesis/nms/index.php?content=userman#sect_15) convert `.dds`.
+* You can use [Noesis](http://www.richwhitehouse.com/noesis/nms/index.php) to [batch convert](http://www.richwhitehouse.com/noesis/nms/index.php?content=userman#sect_15) `.dds`.
 
   Convert through command line is also supported:
   ```
