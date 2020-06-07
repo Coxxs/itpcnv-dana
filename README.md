@@ -6,7 +6,7 @@ Currently Support Ys VIII (PS4 & PC) assets.
 
 ## Usage
 
-Simply drag and drop `.itp` file onto run.bat, or:
+Simply drag and drop `.itp` files onto run.bat, or:
 
 ```
 node index.js file1.itp file2.itp ...
@@ -14,7 +14,13 @@ node index.js file1.itp file2.itp ...
 
 [Node.js](https://nodejs.org/) is required.
 
-## How to view `.DDS` texture?
+## Tips
+
+### How to unpack `.xai` file?
+
+Use [YsVIII-tools](https://github.com/yosh778/YsVIII-tools) or my [fork](https://github.com/Coxxs/YsVIII-tools) which fixes an issue when unpacking `.xai` > 4GB.
+
+### How to view `.dds` texture?
 
 * Use [Noesis](http://www.richwhitehouse.com/noesis/nms/index.php) to view and convert `.dds` texture:
   
