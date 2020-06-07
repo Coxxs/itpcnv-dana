@@ -74,7 +74,7 @@ function itp2dds(buf) {
     }
 
     // a >> 2   <=>   Math.floor(a / 4)
-    images_raw[0] = tile.untile(images_raw[0], width >> 2, width >> 2, 4 * 4 * 1)
+    images_raw[0] = tile.untile(images_raw[0], width >> 2, height >> 2, 4 * 4 * 1)
     return bc72dds(images_raw[0], height, width)
 }
 
